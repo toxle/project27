@@ -1,0 +1,6 @@
+{
+  "name": "ClearLung — 폐의 거울",
+  "description": "에쎄 히말라야 윈터 20개비 담배갑과 배꼽까지 보이는 투명 폐 비주얼라이저로 흡연 한 개비마다 변하는 폐 상태를 체감하는 금연 경각심 시뮬레이터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
